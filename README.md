@@ -2,10 +2,10 @@
 <div align="center">
   <img border-radius: 15px src="Tzuyu.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="jennie" src="https://img.shields.io/badge/jennie-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="king" src="https://img.shields.io/badge/king-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/kingisuwa"><img title="Author" src="https://img.shields.io/badge/Author-kingisuwa/jennie?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/kingisuwa"><img title="Author" src="https://img.shields.io/badge/Author-kingisuwa/king?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -19,13 +19,13 @@ Project created by <a href="https://github.com/kingisuwa">kingisuwa</a> to make 
 ----
 
   <p align="center">
-  <a href="httsp://github.com/kingisuwa/jennie">
-    <img src="https://img.shields.io/github/repo-size/kingisuwa/jennie?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/kingisuwa/king">
+    <img src="https://img.shields.io/github/repo-size/kingisuwa/king?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/kingisuwa/followers"><img title="Followers" src="https://img.shields.io/github/followers/kingisuwa?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/kingisuwa/jennie/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/kingisuwa/jennie?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/kingisuwa/jennie/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kingisuwa/jennie?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/kingisuwa/jennie/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/kingisuwa/jennie?label=Watchers&color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/kingisuwa/king/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/kingisuwa/king?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/kingisuwa/king/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kingisuwa/king?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/kingisuwa/king/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/kingisuwa/king?label=Watchers&color=f7df1e&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-f7df1e.svg"</a>
 </p>
 
@@ -75,8 +75,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/kingisuwa/jennie
-$ cd jennie
+$ git clone https://github.com/kingisuwa/king
+$ cd king
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -85,8 +85,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/kingisuwa/jennie
-$ cd jennie
+$ git clone https://github.com/kingisuwa/king
+$ cd king
 $ chmod +x *
 $ npm i
 $ node qr.js
