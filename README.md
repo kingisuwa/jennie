@@ -5,11 +5,11 @@
 <a href="#"><img title="jennie" src="https://img.shields.io/badge/jennie-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/vishnu-mkz"><img title="Author" src="https://img.shields.io/badge/Author-vishnu-mkz/jennie?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/kingisuwa"><img title="Author" src="https://img.shields.io/badge/Author-kingisuwa/jennie?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/vishnu-mkz">vishnu-mkz</a> to make it public
+Project created by <a href="https://github.com/kingisuwa">kingisuwa</a> to make it public
     <br>
        | © |
         Reserved |
@@ -19,13 +19,13 @@ Project created by <a href="https://github.com/vishnu-mkz">vishnu-mkz</a> to mak
 ----
 
   <p align="center">
-  <a href="httsp://github.com/vishnu-mkz/jennie">
-    <img src="https://img.shields.io/github/repo-size/vishnu-mkz/jennie?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/kingisuwa/jennie">
+    <img src="https://img.shields.io/github/repo-size/kingisuwa/jennie?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/vishnu-mkz/followers"><img title="Followers" src="https://img.shields.io/github/followers/vishnu-mkz?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/vishnu-mkz/jennie/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/vishnu-mkz/jennie?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/vishnu-mkz/jennie/network/members"><img title="Forks" src="https://img.shields.io/github/forks/vishnu-mkz/jennie?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/vishnu-mkz/jennie/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/vishnu-mkz/jennie?label=Watchers&color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/kingisuwa/followers"><img title="Followers" src="https://img.shields.io/github/followers/kingisuwa?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/kingisuwa/jennie/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/kingisuwa/jennie?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/kingisuwa/jennie/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kingisuwa/jennie?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/kingisuwa/jennie/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/kingisuwa/jennie?label=Watchers&color=f7df1e&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-f7df1e.svg"</a>
 </p>
 
@@ -40,9 +40,9 @@ Project created by <a href="https://github.com/vishnu-mkz">vishnu-mkz</a> to mak
   
 
 <div align="center">
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnu-mkz&show_icons=true&theme=nightowl" alt="vishnu-mkz" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kingisuwa&show_icons=true&theme=nightowl" alt="kingisuwa" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnu-mkz&theme=nightowl" alt="vishnu-mkz" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kingisuwa&theme=nightowl" alt="kingisuwa" /></p>
 </details> </div>
 
 
@@ -75,7 +75,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/vishnu-mkz/jennie
+$ git clone https://github.com/kingisuwa/jennie
 $ cd jennie
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -85,7 +85,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/vishnu-mkz/jennie
+$ git clone https://github.com/kingisuwa/jennie
 $ cd jennie
 $ chmod +x *
 $ npm i
@@ -106,9 +106,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![vishnu-mkz](https://github.com/vishnu-mkz.png?size=100)](https://github.com/vishnu-mkz) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) 
+  [![kingisuwa](https://github.com/kingisuwa.png?size=100)](https://github.com/kingisuwa) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) 
 ----|----|----
-[vishnu-mkz](https://github.com/vishnu-mkz)  | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2)
+[kingisuwa](https://github.com/kingisuwa)  | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
     
